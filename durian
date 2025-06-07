@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Best Durian",
+    "recommender": "Thomas YU",
+    "desc": "Best durian in Malaysia. Have lived in JB for over 1 year, recommended by Thomas's local friend.",
+    "coords": [
+      103.748,
+      1.492
+    ],
+    "mapLink": "https://maps.app.goo.gl/dSBRNijuYQMUUvAN6?g_st=com.google.maps.preview.copy",
+    "contact": "+60 19-333 5260"
+  },
+  {
+    "name": "Nearby Durian",
+    "recommender": "NS cafe staff",
+    "desc": "Durian market, 6am in the front of this building.",
+    "coords": [
+      103.755,
+      1.495
+    ],
+    "mapLink": "https://maps.app.goo.gl/qcfLtCcnu4Y93TqJ8?g_st=ia",
+    "contact": "-"
+  },
+  {
+    "name": "Durian nearby Bukit Indah",
+    "recommender": "Vicent G",
+    "desc": "\u5728\u8fd9\u4e2a\u9644\u8fd1\u6709\u597d\u51e0\u5bb6\u3002",
+    "coords": [
+      103.683,
+      1.481
+    ],
+    "mapLink": "https://maps.app.goo.gl/Qb8JJMn2VfyeBNpB9?g_st=com.google.maps.preview.copy",
+    "contact": "-"
+  }
+]
